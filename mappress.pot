@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MapPress\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: https://github.com/vbert/MapPress/issues\n"
 "POT-Creation-Date: 2011-08-04 08:23-0800\n"
 "PO-Revision-Date: 2011-08-04 08:24-0800\n"
 "Last-Translator: vbert <wsobczak@gmail.com>\n"
