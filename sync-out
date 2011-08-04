@@ -1,0 +1,17 @@
+#!/bin/bash
+#
+if [ "$1" = "" ]; then
+    U="vbert"
+    D=`date`
+    MSG="$U, $D"
+else
+    MSG=$1
+fi
+
+# for test
+#echo $MSG
+
+git add .
+git commit -a -m "$MSG"
+#git push --all
+git push -u origin master
