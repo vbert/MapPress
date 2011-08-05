@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-04-15 08:23-0800\n"
-"PO-Revision-Date: 2011-08-04 22:00+0100\n"
+"PO-Revision-Date: 2011-08-05 09:11+0100\n"
 "Last-Translator: Wojciech Sobczak <wsobczak@gmail.com>\n"
 "Language-Team: vbert <wsobczak@gmail.com>\n"
 "Language: \n"
@@ -172,11 +172,11 @@ msgstr "Użyj określonego %s kontroli mapy (domyślnie język przeglądarki)"
 
 #: mappress-google-maps-for-wordpress/mappress.php:592
 msgid "Allow your readers to change the map type (street, satellite, or hybrid)"
-msgstr ""
+msgstr "Pozwól czytelnikom zmienić typ mapy (ulica, satelita lub hybrydowa)"
 
 #: mappress-google-maps-for-wordpress/mappress.php:600
 msgid "Display the street view control \"peg man\""
-msgstr ""
+msgstr "Wyświetlanie kontrolera street view \"człowiek kołek\""
 
 #: mappress-google-maps-for-wordpress/mappress.php:608
 msgid "Inline (in your blog)"
@@ -195,7 +195,7 @@ msgstr "Brak"
 
 #: mappress-google-maps-for-wordpress/mappress.php:618
 msgid "Select 'Google' if directions aren't displaying properly in your theme"
-msgstr ""
+msgstr "Wybierz 'Google', jeśli trasa dojazdu nie jest wyświetlana poprawnie na Twojej stronie"
 
 #: mappress-google-maps-for-wordpress/mappress.php:625
 #: mappress-google-maps-for-wordpress/mappress.php:756
@@ -209,23 +209,23 @@ msgstr "To ustawienie wymaga %s."
 #: mappress-google-maps-for-wordpress/mappress.php:626
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:442
 msgid "Show a list of markers under each map"
-msgstr ""
+msgstr "Pokaż listę znaczników na każdej mapie"
 
 #: mappress-google-maps-for-wordpress/mappress.php:635
 msgid "Automatically open the first marker when a map is displayed"
-msgstr ""
+msgstr "Automatyczne otwieraj pierwszy znacznik, gdy mapa jest wyświetlana"
 
 #: mappress-google-maps-for-wordpress/mappress.php:644
 msgid "Show a button for real-time traffic conditions"
-msgstr ""
+msgstr "Pokaż przycisk do warunków ruchu w czasie rzeczywistym"
 
 #: mappress-google-maps-for-wordpress/mappress.php:653
 msgid "Show marker titles as a \"tooltip\" on mouse-over"
-msgstr ""
+msgstr "Tytuły znaczników jako 'podpowiedzi' po najechaniu myszą"
 
 #: mappress-google-maps-for-wordpress/mappress.php:660
 msgid "Show an overview map control in the bottom-right corner of the main map"
-msgstr ""
+msgstr "Pokaż kontroler mapy ogólnej w prawym dolnym rogu wyświetlanej mapy"
 
 #: mappress-google-maps-for-wordpress/mappress.php:665
 msgid "Automatically open the overview map"
@@ -271,7 +271,7 @@ msgstr "typy wiadomości"
 #: mappress-google-maps-for-wordpress/mappress.php:716
 #, php-format
 msgid "Mark the %s where you want to use MapPress"
-msgstr ""
+msgstr "Zaznacz %s, w którym chcesz używać MapPress"
 
 #: mappress-google-maps-for-wordpress/mappress.php:723
 msgid "post"
@@ -283,7 +283,7 @@ msgstr "strona"
 
 #: mappress-google-maps-for-wordpress/mappress.php:736
 msgid "Permanently resize existing maps:"
-msgstr ""
+msgstr "Trwale zmień rozmiar istniejących map:"
 
 #: mappress-google-maps-for-wordpress/mappress.php:738
 #, php-format
@@ -296,7 +296,7 @@ msgstr "Wymuś zmiane rozmiaru"
 
 #: mappress-google-maps-for-wordpress/mappress.php:750
 msgid "Enter the URL for your CSS file"
-msgstr ""
+msgstr "Wprowadź URL dla pliku CSS"
 
 #: mappress-google-maps-for-wordpress/mappress.php:757
 msgid "Set a template for the marker list"
@@ -308,7 +308,7 @@ msgstr "Przełącz wiadomość  'wykonane przez'"
 
 #: mappress-google-maps-for-wordpress/mappress.php:771
 msgid "Automatically create maps from custom field data"
-msgstr ""
+msgstr "Automatyczne tworzenie mapy z własnych pól danych"
 
 #: mappress-google-maps-for-wordpress/mappress.php:778
 msgid "Set custom map sizes"
@@ -321,7 +321,7 @@ msgstr "prosty GeoRSS"
 #: mappress-google-maps-for-wordpress/mappress.php:789
 #, php-format
 msgid "Enable %s for your RSS feeds"
-msgstr ""
+msgstr "Włącz %s dla kanałów RSS"
 
 #: mappress-google-maps-for-wordpress/mappress.php:805
 #: mappress-google-maps-for-wordpress/mappress.php:814
@@ -343,7 +343,7 @@ msgstr "5 gwiadek"
 #: mappress-google-maps-for-wordpress/mappress.php:835
 #, php-format
 msgid "Take a moment to rate it %s on WordPress.org - or make a donation"
-msgstr ""
+msgstr "Poświęć chwilę na ocenianie %s na WordPress.org - lub dokonać wpłaty"
 
 #: mappress-google-maps-for-wordpress/mappress.php:846
 msgid "Thanks for your support!"
@@ -377,15 +377,15 @@ msgstr "Przywróć domyślne"
 
 #: mappress-google-maps-for-wordpress/mappress.php:958
 msgid "MapPress database tables are missing.  Please deactivate the plugin and activate it again to fix this."
-msgstr ""
+msgstr "Brak tabel MapPress w bazie danych. Proszę wyłączyć wtyczkę i włączyć ponownie, aby rozwiązać ten problem."
 
 #: mappress-google-maps-for-wordpress/mappress.php:963
 msgid "WARNING: MapPress requires WordPress 3.0 or higher.  Please upgrade before using MapPress."
-msgstr ""
+msgstr "OSTRZEŻENIE: MapPress wymaga WordPress 3.0 lub wyższej. Prosimy o aktualizację przed użyciem MapPress."
 
 #: mappress-google-maps-for-wordpress/mappress.php:968
 msgid "WARNING: MapPress is not compatible with the WP-Geo plugin.  Please deactivate or uninstall WP-Geo before using MapPress."
-msgstr ""
+msgstr "OSTRZEŻENIE: MapPress nie jest zgodny z wtyczką WP-Geo. Proszę wyłączyć lub odinstalować WP-Geo przed użyciem MapPress."
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:139
 #, php-format
@@ -395,7 +395,7 @@ msgstr "Brak odpowiedzi geokodowania z Google: %s"
 #: mappress-google-maps-for-wordpress/mappress_api.php:152
 #, php-format
 msgid "Google cannot geocode address: %s, status: %s"
-msgstr ""
+msgstr "Google nie może geokodować adresu: %s, status: %s"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:155
 #, php-format
@@ -443,7 +443,7 @@ msgstr "Mapy w tym wpisie"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:681
 msgid "There are no maps yet for this post"
-msgstr ""
+msgstr "Brak mapy dla tego wpisu"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:682
 msgid "Create a new map"
@@ -451,15 +451,15 @@ msgstr "Tworzenie nowej mapy"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:685
 msgid "The starting or ending address could not be found."
-msgstr ""
+msgstr "Początkowe lub końcowe adresy nie zostały znalezione."
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:686
 msgid "Google cannot return directions between those addresses.  There is no route between them or the routing information is not available."
-msgstr ""
+msgstr "Google nie może zwrócić trasy dojazdu między tymi adresami. Brak trasy między nimi lub informacji ta nie jest dostępna."
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:687
 msgid "Unknown error, unable to return directions.  Status code = "
-msgstr ""
+msgstr "Nieznany błąd, nie mogę zwrócić tracy dojazdu. Kod statusu ="
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:688
 msgid "Enter address"
@@ -533,7 +533,7 @@ msgstr "Powiększ"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:709
 msgid "Traffic"
-msgstr ""
+msgstr "Ruch"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:710
 msgid "Standard icons"
@@ -553,7 +553,7 @@ msgstr "Pieszo"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:735
 msgid "Bicycling"
-msgstr ""
+msgstr "Rower"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:741
 msgid "Start"
@@ -590,7 +590,7 @@ msgstr "pobierz ją teraz"
 #: mappress-google-maps-for-wordpress/mappress_updater.php:50
 #, php-format
 msgid "A PRO Version update is available for manual installation: %s"
-msgstr ""
+msgstr "Aktualizacja wersji PRO jest dostępna dla ręcznej instalacji: %s"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:96
 #, php-format
@@ -607,11 +607,11 @@ msgstr "Pole dla błędów"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:432
 msgid "Update map when post is saved"
-msgstr ""
+msgstr "Aktualizuj mapę podczas zapisywania wpisu"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:435
 msgid "Update map when address is changed by a program"
-msgstr ""
+msgstr "Aktualizacja mapy przy zmianie adresu przez program"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:463
 msgid "Display powered by link"
@@ -668,7 +668,7 @@ msgstr "Tytuł wpisu"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:565
 msgid "Link marker title to post"
-msgstr ""
+msgstr "Tytuł znacznika link do wpisu"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:569
 msgid "Marker body"
@@ -696,7 +696,7 @@ msgstr "Mapa"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:609
 msgid "Hybrid"
-msgstr ""
+msgstr "Hybrydowa"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:610
 msgid "Satellite"
@@ -704,7 +704,7 @@ msgstr "Satelita"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:611
 msgid "Terrain"
-msgstr ""
+msgstr "Terenowa"
 
 #: mappress-google-maps-for-wordpress/pro/mappress_pro.php:619
 msgid "Show list of markers"
