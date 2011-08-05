@@ -1,11 +1,18 @@
+#
+# vbert <wsobczak@gmail.com>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-04-15 08:23-0800\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf8\n"
+"Content-Transfer-Encoding: utf8\n"
+"Last-Translator: vbert <wsobczak@gmail.com>\n"
+"Language-Team: Polish <wsobczak@gmail.com>\n"
+"Plural-Forms: ski\n"
+"PO-Revision-Date: 2011-08-04 19:36+0200\n"
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress.php:144
 #, fuzzy
@@ -166,7 +173,8 @@ msgid "Use a specific %s for map controls (defaults to browser language)"
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress.php:592
-msgid "Allow your readers to change the map type (street, satellite, or hybrid)"
+msgid ""
+"Allow your readers to change the map type (street, satellite, or hybrid)"
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress.php:600
@@ -371,15 +379,21 @@ msgid "Reset Defaults"
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress.php:958
-msgid "MapPress database tables are missing.  Please deactivate the plugin and activate it again to fix this."
+msgid ""
+"MapPress database tables are missing.  Please deactivate the plugin and "
+"activate it again to fix this."
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress.php:963
-msgid "WARNING: MapPress requires WordPress 3.0 or higher.  Please upgrade before using MapPress."
+msgid ""
+"WARNING: MapPress requires WordPress 3.0 or higher.  Please upgrade before "
+"using MapPress."
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress.php:968
-msgid "WARNING: MapPress is not compatible with the WP-Geo plugin.  Please deactivate or uninstall WP-Geo before using MapPress."
+msgid ""
+"WARNING: MapPress is not compatible with the WP-Geo plugin.  Please "
+"deactivate or uninstall WP-Geo before using MapPress."
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress_api.php:139
@@ -449,7 +463,9 @@ msgid "The starting or ending address could not be found."
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress_api.php:686
-msgid "Google cannot return directions between those addresses.  There is no route between them or the routing information is not available."
+msgid ""
+"Google cannot return directions between those addresses.  There is no route "
+"between them or the routing information is not available."
 msgstr ""
 
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/mappress_api.php:687
@@ -716,4 +732,3 @@ msgstr ""
 #: C:\wamp\www\wordpress\wp-content\plugins\mappress-google-maps-for-wordpress/pro/mappress_pro.php:628
 msgid "Open overview map"
 msgstr ""
-
