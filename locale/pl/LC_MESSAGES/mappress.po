@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-04-15 08:23-0800\n"
-"PO-Revision-Date: 2011-08-05 09:11+0100\n"
+"PO-Revision-Date: 2011-08-05 09:17+0100\n"
 "Last-Translator: Wojciech Sobczak <wsobczak@gmail.com>\n"
 "Language-Team: vbert <wsobczak@gmail.com>\n"
 "Language: \n"
@@ -553,7 +553,7 @@ msgstr "Pieszo"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:735
 msgid "Bicycling"
-msgstr "Rower"
+msgstr "Rowerem"
 
 #: mappress-google-maps-for-wordpress/mappress_api.php:741
 msgid "Start"
